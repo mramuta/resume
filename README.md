@@ -1,1 +1,1 @@
-![alt text][/resume_img]
+![alt text][resume_img.png?raw=true]
