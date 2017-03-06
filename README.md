@@ -1,1 +1,1 @@
-![alt text][resume_img.png?raw=true]
+![alt text][https://github.com/mramuta/resume/blob/master/resume_img.png]
