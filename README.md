@@ -1,1 +1,1 @@
-![alt text][https://github.com/mramuta/resume/blob/master/resume_img.png]
+![resume](resume_img.png)
