@@ -1,2 +1,2 @@
 resume:
-![resume](resume_img.png)
+![resume](resume_1.png)
